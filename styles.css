@@ -1,0 +1,123 @@
+h1 {
+  text-decoration: underline;
+  color: forestgreen;
+  font-family: "comic sans ms";
+}
+body {
+  background-color: beige;
+}
+#game {
+  width: 600px;
+}
+#bamboo1 {
+  width: 140px;
+  height: 130px;
+  float: left;
+  background-image: url(bamboo.png);
+  background-size: 100%;
+}
+#bamboo2 {
+  width: 140px;
+  height: 130px;
+  float: left;
+  background-image: url(bamboo.png);
+  background-size: 100%;
+}
+#bamboo3 {
+  width: 140px;
+  height: 130px;
+  float: left;
+  background-image: url(bamboo.png);
+  background-size: 100%;
+}
+#bamboo4 {
+  width: 140px;
+  height: 130px;
+  float: left;
+  background-image: url(bamboo.png);
+  background-size: 100%;
+}
+#bamboo5 {
+  width: 140px;
+  height: 130px;
+  float: left;
+  background-image: url(bamboo.png);
+  background-size: 100%;
+}
+#bamboo6 {
+  width: 140px;
+  height: 130px;
+  float: left;
+  background-image: url(bamboo.png);
+  background-size: 100%;
+}
+#bamboo7 {
+  width: 140px;
+  height: 130px;
+  float: left;
+  background-image: url(bamboo.png);
+  background-size: 100%;
+}
+#bamboo8 {
+  width: 140px;
+  height: 130px;
+  float: left;
+  background-image: url(bamboo.png);
+  background-size: 100%;
+}
+#bamboo1:hover {
+  background-image: url(questionMark.png);
+  background-size: 140px 130px;
+}
+#bamboo2:hover {
+  background-image: url(questionMark.png);
+  background-size: 140px 130px;
+}
+#bamboo3:hover {
+  background-image: url(questionMark.png);
+  background-size: 140px 130px;
+}
+#bamboo4:hover {
+  background-image: url(questionMark.png);
+  background-size: 140px 130px;
+}
+#bamboo5:hover {
+  background-image: url(questionMark.png);
+  background-size: 140px 130px;
+}
+#bamboo6:hover {
+  background-image: url(questionMark.png);
+  background-size: 140px 130px;
+}
+#bamboo7:hover {
+  background-image: url(questionMark.png);
+  background-size: 140px 130px;
+}
+#bamboo8:hover {
+  background-image: url(questionMark.png);
+  background-size: 140px 130px;
+}
+#bamboo1:active {
+  background-image: url(snowLeopard2.jpg);
+}
+#bamboo2:active {
+  background-image: url(redPanda1.jpg);
+}
+#bamboo3:active {
+  background-image: url(redPanda2.jpg);
+}
+#bamboo4:active {
+  background-image: url(snowLeopard2.jpg);
+}
+#bamboo5:active {
+  background-image: url(redPanda3.jpg);
+}
+#bamboo6:active {
+  background-image: url(snowLeopard3.jpg);
+}
+#bamboo7:active {
+  background-image: url(redPanda4.jpg);
+}
+#bamboo8:active {
+  background-image: url(redPanda5.jpg);
+}
